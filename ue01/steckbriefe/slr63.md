@@ -1,4 +1,4 @@
-# Steckbrief <SLRD63>
+# Steckbrief <slr63>
 
 ## Studiengang und Semester
 
