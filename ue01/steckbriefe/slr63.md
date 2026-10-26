@@ -10,4 +10,4 @@ Bots in Python, Agenten in Go, Apps in C#, Webentwicklung, MySQL, ClickHouseDB, 
 
 ## Das erwarte ich von der Veranstaltung
 
-...
+Viel zu lernen
